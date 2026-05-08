@@ -78,11 +78,3 @@
 - GitHub: [@eyobbegashaw](https://github.com/eyobbegashaw)
 
 ---
-
-## 📄 License
-
-MIT License - Free for personal and commercial use
-
----
-
-[⬇️ Download Latest Version](https://github.com/eyobbegashaw/AutomatedFileOrganizer-Releases/releases/latest)
